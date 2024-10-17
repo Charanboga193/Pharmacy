@@ -5,9 +5,9 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharmacy_DAO", "Pharmacy_DAO\Pharmacy_DAO.csproj", "{CED17E70-10E5-4A1D-BF93-C6DA837CD574}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PharmacyWebAPI", "PharmacyWebAPI\PharmacyWebAPI.csproj", "{878DAFBB-03D6-4584-8C28-A2DDD41E2C9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyWebAPI", "PharmacyWebAPI\PharmacyWebAPI.csproj", "{878DAFBB-03D6-4584-8C28-A2DDD41E2C9A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online_Pharmacy_App_MVC", "Online_Pharmacy_App_MVC\Online_Pharmacy_App_MVC.csproj", "{351B767A-20D9-405E-9D3D-5E8FD35641E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online_Pharmacy_App_MVC", "Online_Pharmacy_App_MVC\Online_Pharmacy_App_MVC.csproj", "{351B767A-20D9-405E-9D3D-5E8FD35641E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
